@@ -5,9 +5,9 @@ import { request, gql } from 'graphql-request'
 const MASTER_URL="https://api-ap-south-1.hygraph.com/v2/clvybrsbn02re07w6woa4g124/master"
 
 // google map key 
-const API_KEY="AIzaSyBizsfsvHan1iGwUJf7rLI276vz_5lNlvg"
+const API_KEY="GoogleMap KEY"
 
-//google place key map
+//google places
 const BASE_URL="https://maps.googleapis.com/maps/api/place"
 
 const nearByPlace=(lat,lng)=>axios.get(BASE_URL+ 
