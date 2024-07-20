@@ -57,7 +57,7 @@ export default function App() {
 
   });
   return (
-    <ClerkProvider publishableKey='pk_test_YW1wbGUtZ2hvc3QtNjIuY2xlcmsuYWNjb3VudHMuZGV2JA'>
+    <ClerkProvider publishableKey='clerkKEY'>
     <View style={styles.container}>
      
      {/* Sign In Component  */}
