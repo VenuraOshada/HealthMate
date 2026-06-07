@@ -81,12 +81,6 @@ node index.js
 
 ---
 
-## Screenshots
-
-_Coming soon_
-
----
-
 ## Roadmap
 
 - [ ] Multi-language prescription support
